@@ -33,7 +33,7 @@ from pydub.playback import play
 # ──────────────────────────────────────────────────────────────────────────────
 
 # Your Groq API key: set this in your environment or replace with a config loader.
-groq_api_key = os.getenv("GROQ_API_KEY", "Your API Key.")
+groq_api_key = os.getenv("GROQ_API_KEY", "YOUR_API_KEY_HERE.")
 
 # System-level prompt for the LLM: each query will prepend this. This will affect your LLM's personality, change this for your use-case. Make sure to keep/edit lines 2 & 3 according to your requirements for better accuracy.
 sys_msg = (

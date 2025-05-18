@@ -1,0 +1,9 @@
+OpenVc Voice Chat Template
+Copyright 2025 Ascendant Softworks (Private) Limited
+
+This product includes software developed by Ascendant Softworks (Private) Limited. (https://ascendantsoftworks.ai)
+
+Additional notices:
+- Powered by Groq APIs (https://groq.com)
+- Uses Python SpeechRecognition library (https://pypi.org/project/SpeechRecognition/)
+- Uses pydub (https://github.com/jiaaro/pydub)
